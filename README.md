@@ -1,8 +1,5 @@
 <h1 align="center"># 👋 Olá, eu sou Kauan
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Focado em desenvolvimento Front-end  
-🚀 Aprendendo a criar interfaces modernas e responsivas  
 
 ---
 
