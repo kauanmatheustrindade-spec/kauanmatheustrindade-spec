@@ -1,4 +1,35 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center"># 👋 Olá, eu sou Kauan
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Focado em desenvolvimento Front-end  
+🚀 Aprendendo a criar interfaces modernas e responsivas  
+
+---
+
+## 💡 Sobre mim
+- Ainda estou no início da jornada como dev  
+- Estudando HTML, CSS e JavaScript  
+- Buscando melhorar lógica de programação e UI/UX  
+- Criando meus primeiros projetos web  
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+- HTML5  
+- CSS3  
+- JavaScript (básico)  
+- Git e GitHub  
+
+---
+
+## 🎯 Objetivo
+Me tornar um desenvolvedor Front-end e criar interfaces bonitas, rápidas e funcionais.
+
+---
+
+## 📈 Em evolução constante
+> “Todo grande desenvolvedor começou do zero.”
+ </h1>
 
 ###
 
