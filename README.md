@@ -1,9 +1,9 @@
-<h1 align="center"> 👋 Olá, eu sou Kauan
+<h1 align="center"> ## 👋 Olá, eu sou Kauan
 
 
 ---
 
-💡 Sobre mim
+## 💡 Sobre mim
 - Ainda estou no início da jornada como dev  
 - Estudando HTML, CSS e JavaScript  
 - Buscando melhorar lógica de programação e UI/UX  
@@ -11,7 +11,7 @@
 
 ---
 
-🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias que estou aprendendo
 - HTML5  
 - CSS3  
 - JavaScript (básico)  
@@ -19,7 +19,7 @@
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo
 Me tornar um desenvolvedor Front-end e criar interfaces bonitas, rápidas e funcionais.
 
 ---
